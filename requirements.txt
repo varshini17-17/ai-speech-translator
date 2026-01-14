@@ -1,0 +1,10 @@
+torch
+transformers
+librosa
+numpy
+pydub
+flask
+yt-dlp
+soundfile
+opencv-python
+edge-tts
